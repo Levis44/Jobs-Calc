@@ -1,0 +1,27 @@
+{
+  "name": "Jobs-Calc",
+  "version": "1.0.0",
+  "description": "Freelance Calculator",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Levis44/Jobs-Calc.git"
+  },
+  "keywords": [],
+  "author": "Levi Ciarrocchi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Levis44/Jobs-Calc/issues"
+  },
+  "homepage": "https://github.com/Levis44/Jobs-Calc#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
