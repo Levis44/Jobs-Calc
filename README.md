@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src="./images/print.png" width="100%">
+  <img alt="jobsCalc" src="./public/images/print.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
